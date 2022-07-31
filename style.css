@@ -1,0 +1,15 @@
+body{
+    background-color: coral;
+}
+#camera { 
+    border: 2px dashed rgb(92, 214, 35);
+    width: 350px;
+    height: 300px
+}
+
+h2
+{
+font-family: 'Lobster';
+font-size: 45px;
+color: aquamarine;
+}
